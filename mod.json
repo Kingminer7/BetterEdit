@@ -209,7 +209,7 @@
 			"default": false,
 			"name": "Better Warp Selection (WIP)",
 			"description": "<cr>THIS FEATURE IS HEAVILY WIP</c>",
-			"enable-if": "saved:has-pro && dev-mode",
+			"enable-if": "dev-mode",
 			"enable-if-description": "This Feature is Supporter-Only & Heavily WIP!"
 		},
 		"enable-pro-ui": {
@@ -217,7 +217,7 @@
 			"default": false,
 			"name": "Enable Pro UI",
 			"description": "Give the Editor a <cy>New Look</c>! <cr>THIS FEATURE IS HEAVILY WIP</c>",
-			"enable-if": "saved:has-pro && dev-mode",
+			"enable-if": "dev-mode",
 			"enable-if-description": "This Feature is Supporter-Only & Heavily WIP!"
 		}
 	},
